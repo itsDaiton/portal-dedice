@@ -1,12 +1,30 @@
 # Portál Dědice
+Jsme tým z **Vysoké školy ekonomické v Praze**, který ve spolupráci s firmou **Applifting** vytvořil inovativní platformu Portál dědice. Naším cílem bylo zjednodušit a zpřístupnit proces pozůstalostního řízení pro všechny zúčastněné strany.
+
+## Description
+Portál dědice je inovativní platforma, která propojuje dědice a notáře na jednom místě. Cílem je zjednodušit a urychlit proces pozůstalostního řízení prostřednictvím online prostředí.
+
+Na Portálu dědice můžete provést předběžné šetření online, komunikovat s notářem pomocí chatu a efektivně spravovat dědické řízení. Díky nástroji „Nachytřovadlo“ vás platforma provede celým procesem krok za krokem, poskytne jasné instrukce a pomůže vám lépe porozumět jednotlivým fázím dědického řízení.
+
+S Portálem dědice šetříte čas, snižujete administrativní zátěž a máte jistotu, že vše probíhá v souladu s právními předpisy.
+
+*Portál dědice – Váš spolehlivý nástroj v náročných životních situacích.*
+
+## Authors
+- David Poslušný
+- Šimon Kubín
+- Peter Sekelský
+- Michal Dub
+- Petr Cafourek
+- Alisher Nurmatov
 
 ## Monorepo Overview
 
 This repository contains three workspaces:
 
-1. **backend** – Node.js server with GraphQL support.
-2. **frontend** – React-based SPA client application.
-3. **shared** – Shared logic and utilities.
+1. **backend** – Node.js server with GraphQL support
+2. **frontend** – React-based SPA client application
+3. **shared** – Shared logic and utilities
 
 ## Tech Stack
 
@@ -35,7 +53,7 @@ First download and install [Node.js](https://nodejs.org/en/download/) version de
 1. Clone the repository:
 
    ```bash
-   git clone https://gitlab.com/4it5801/2024-tym3-notarska-appka.git
+   git clone https://github.com/itsDaiton/portal-dedice.git
    cd portal-dedice
    ```
 
