@@ -18,6 +18,38 @@ S Portálem dědice šetříte čas, snižujete administrativní zátěž a mát
 - Petr Cafourek
 - Alisher Nurmatov
 
+## Gallery
+
+![image](https://github.com/user-attachments/assets/ac65c412-d65e-495f-be75-731d6e655d2b)
+
+![image](https://github.com/user-attachments/assets/a895269f-30a5-4ce8-b730-209105db5460)
+
+![image](https://github.com/user-attachments/assets/a1efbe08-7bbb-4562-a77f-7d369ca44302)
+
+![image](https://github.com/user-attachments/assets/24215fe4-a811-4544-a26f-dfd074d42666)
+
+![image](https://github.com/user-attachments/assets/9e84c6bf-f445-44ac-98c4-7a85e39c81dd)
+
+![image](https://github.com/user-attachments/assets/1b682f28-3a84-4fa8-b769-8d4fed7b105e)
+
+![image](https://github.com/user-attachments/assets/d6551c98-4f26-42c6-a59d-17b414ccf1eb)
+
+![image](https://github.com/user-attachments/assets/2402e297-ea15-40c2-80dc-4bc785a188a0)
+
+![image](https://github.com/user-attachments/assets/18d290f7-4440-4ae2-8d30-d6732691b891)
+
+![image](https://github.com/user-attachments/assets/1d111bc9-2cf8-4144-9a10-e89ab253c90f)
+
+![image](https://github.com/user-attachments/assets/a28343ea-a6e1-4f4f-b231-cd05e2c8908c)
+
+![image](https://github.com/user-attachments/assets/c68a3223-8746-4982-8db5-75e48a1ebe03)
+
+![image](https://github.com/user-attachments/assets/35f5960c-523b-436b-bbb8-e1c9760b7deb)
+
+![image](https://github.com/user-attachments/assets/4241bbde-608d-44a8-841e-dbd5ac1d609f)
+
+
+
 ## Monorepo Overview
 
 This repository contains three workspaces:
