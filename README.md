@@ -30,9 +30,7 @@ S Portálem dědice šetříte čas, snižujete administrativní zátěž a mát
 
 ![image](https://github.com/user-attachments/assets/9e84c6bf-f445-44ac-98c4-7a85e39c81dd)
 
-![image](https://github.com/user-attachments/assets/1b682f28-3a84-4fa8-b769-8d4fed7b105e)
-
-![image](https://github.com/user-attachments/assets/d6551c98-4f26-42c6-a59d-17b414ccf1eb)
+![image](https://github.com/user-attachments/assets/41873b8d-d883-451e-a153-261af4eadddf)
 
 ![image](https://github.com/user-attachments/assets/2402e297-ea15-40c2-80dc-4bc785a188a0)
 
@@ -48,6 +46,9 @@ S Portálem dědice šetříte čas, snižujete administrativní zátěž a mát
 
 ![image](https://github.com/user-attachments/assets/4241bbde-608d-44a8-841e-dbd5ac1d609f)
 
+![image](https://github.com/user-attachments/assets/ae437e1f-4aea-4079-baac-cfcdbb4223a4)
+
+![image](https://github.com/user-attachments/assets/f3869a92-b964-4573-bf18-fad27c0cf75d)
 
 
 ## Monorepo Overview
