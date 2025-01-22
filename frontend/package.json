@@ -1,0 +1,83 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./vite-entry.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "run-s \"build:*\"",
+    "build:tsc": "tsc",
+    "build:vite": "vite build",
+    "test": "vitest",
+    "download-schema": "run-s \"download-schema:*\"",
+    "download-schema:script": "node ./bin/download-schema.mjs",
+    "download-schema:format": "prettier --write schema.graphql",
+    "graphql": "run-s download-schema \"graphql:*\"",
+    "graphql:codegen": "graphql-codegen",
+    "graphql-watch": "graphql-codegen --watch",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.8",
+    "@chakra-ui/react": "^3.0.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@faker-js/faker": "^9.1.0",
+    "@hookform/resolvers": "~3.9.0",
+    "@internationalized/date": "^3.5.6",
+    "@tanstack/match-sorter-utils": "^8.19.4",
+    "@tanstack/react-table": "^8.20.5",
+    "apollo-upload-client": "^18.0.1",
+    "cross-fetch": "^4.0.0",
+    "date-fns": "^4.1.0",
+    "graphql-tag": "^2.12.6",
+    "lucide-react": "^0.460.0",
+    "next-themes": "^0.3.0",
+    "react": "^18.3.1",
+    "react-cool-onclickoutside": "^1.7.0",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.53.0",
+    "react-icons": "^5.3.0",
+    "react-quill": "^2.0.0",
+    "react-router-dom": "6.26.2",
+    "use-debounce": "^10.0.4",
+    "usehooks-ts": "^3.1.0",
+    "zod": "^3.22.5"
+  },
+  "devDependencies": {
+    "@chakra-ui/cli": "^3.0.1",
+    "@graphql-codegen/cli": "^5.0.0",
+    "@graphql-codegen/client-preset": "^4.3.3",
+    "@graphql-codegen/typescript": "^4.0.9",
+    "@graphql-inspector/graphql-cli-common": "^2.9.0",
+    "@parcel/watcher": "^2.4.1",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.1",
+    "@types/apollo-upload-client": "^18.0.0",
+    "@types/google.maps": "^3.58.1",
+    "@types/node": "^20.16.5",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.0.4",
+    "jsdom": "^25.0.0",
+    "node-fetch": "^3.3.2",
+    "vite": "^5.4.4",
+    "vite-tsconfig-paths": "^5.0.1",
+    "vitest": "^1.6.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
